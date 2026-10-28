@@ -1,0 +1,12 @@
+public class CalculatorService {
+
+    // Method 1: Addition
+    public static Integer addNumbers(Integer num1, Integer num2) {
+        return num1 + num2;
+    }
+
+    // Method 2: Subtraction
+    public static Integer subtractNumbers(Integer num1, Integer num2) {
+        return num1 - num2;
+    }
+}
