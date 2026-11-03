@@ -7,4 +7,7 @@ public class EmployeeUtility {
     public static Integer calculateTax(Integer salary) {
         return salary - 1000;
     }
+    public static Integer calculateIncentive(Integer salesAmount) {
+    return salesAmount + 500;
+}
 }
