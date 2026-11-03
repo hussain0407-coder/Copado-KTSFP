@@ -8,6 +8,7 @@ public class EmployeeUtility {
         return salary - 1000;
     }
     public static Integer calculateIncentive(Integer salesAmount) {
-    return salesAmount + 500;
+    return salesAmount + 400;
+}
 }
 }
