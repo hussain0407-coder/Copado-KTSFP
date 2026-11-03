@@ -10,4 +10,8 @@ public class EmployeeUtility {
     public static Integer calculateIncentive(Integer salesAmount) {
     return salesAmount + 500;
 }
+
+public static Integer calculatePenalty(Integer amount) {
+    return amount - 200;
+}
 }
