@@ -4,6 +4,11 @@
     <custom>true</custom>
     <description n1:nil="true" />
     <fieldPermissions>
+        <editable>false</editable>
+        <field>Account.CF12345__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
         <editable>true</editable>
         <field>Account.CF_Test__c</field>
         <readable>true</readable>
