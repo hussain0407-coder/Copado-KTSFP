@@ -13,9 +13,9 @@
     <caseMergeInLightning>false</caseMergeInLightning>
     <closeCaseThroughStatusChange>false</closeCaseThroughStatusChange>
     <defaultCaseFeedLayoutOn>false</defaultCaseFeedLayoutOn>
-    <defaultCaseOwner>hussainbasha0407@gmail.com.kt.production-sfp</defaultCaseOwner>
+    <defaultCaseOwner>hussainbasha0407@gmail.com.kt.dev1-sfp</defaultCaseOwner>
     <defaultCaseOwnerType>User</defaultCaseOwnerType>
-    <defaultCaseUser>hussainbasha0407@gmail.com.kt.production-sfp</defaultCaseUser>
+    <defaultCaseUser>hussainbasha0407@gmail.com.kt.dev1-sfp</defaultCaseUser>
     <emailToCase>
         <enableE2CAdvancedSecurity>false</enableE2CAdvancedSecurity>
         <enableE2CAttachmentAsFile>false</enableE2CAttachmentAsFile>

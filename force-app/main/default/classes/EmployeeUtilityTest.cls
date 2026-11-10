@@ -12,4 +12,15 @@ private class EmployeeUtilityTest {
         Integer result = EmployeeUtility.calculateTax(10000);
         System.assertEquals(9000, result);
     }
+    @isTest
+static void testCalculateIncentive() {
+    Integer result = EmployeeUtility.calculateIncentive(5000);
+    System.assertEquals(5500, result);
+}
+
+@isTest
+static void testCalculatePenalty() {
+    Integer result = EmployeeUtility.calculatePenalty(5000);
+    System.assertEquals(4800, result);
+}
 }
